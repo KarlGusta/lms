@@ -1,4 +1,4 @@
-# lms
+# Leave Management System
 Leave management system is a system used by employees to request for leave, and for their leave to be approved by their superiors.
 
 ## Tools used
