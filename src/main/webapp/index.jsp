@@ -14,7 +14,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
-    <title>Dashboard - Tabler - Premium and Open Source dashboard template with responsive and high quality UI.</title>
+    <title>Apply | Leave Management System</title>
     <!-- CSS files -->
     <link href="./dist/css/tabler.min.css" rel="stylesheet"/>
     <link href="./dist/css/tabler-flags.min.css" rel="stylesheet"/>
@@ -595,24 +595,16 @@
                 </div>
               </a>
               <div class="dropdown-menu dropdown-menu-end dropdown-menu-arrow">
-                <a href="#" class="dropdown-item">Set status</a>
-                <a href="#" class="dropdown-item">Profile & account</a>
-                <a href="#" class="dropdown-item">Feedback</a>
-                <div class="dropdown-divider"></div>
-                <a href="#" class="dropdown-item">Settings</a>
                 <a href="#" class="dropdown-item">Logout</a>
               </div>
             </div>
           </div>
           <div class="collapse navbar-collapse" id="navbar-menu">
             <div>
+            <!--  -->
               <form action="." method="get">
                 <div class="input-icon">
-                  <span class="input-icon-addon">
-                    <!-- Download SVG icon from http://tabler-icons.io/i/search -->
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><circle cx="10" cy="10" r="7" /><line x1="21" y1="21" x2="15" y2="15" /></svg>
-                  </span>
-                  <input type="text" value="" class="form-control" placeholder="Search…" aria-label="Search in website">
+                  <!-- <input type="text" value="" class="form-control" placeholder="Search…" aria-label="Search in website">-->
                 </div>
               </form>
             </div>
