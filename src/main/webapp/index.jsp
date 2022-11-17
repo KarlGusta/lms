@@ -1,10 +1,12 @@
-<!doctype html>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
 <!--
 * Tabler - Premium and Open Source dashboard template with responsive and high quality UI.
 * @version 1.0.0-beta10
 * @link https://tabler.io
 * Copyright 2018-2022 The Tabler Authors
-* Copyright 2018-2022 codecalm.net Paweł Kuna
+* Copyright 2018-2022 codecalm.net Pawe Kuna
 * Licensed under MIT (https://github.com/tabler/tabler/blob/master/LICENSE)
 -->
 <html lang="en">
@@ -91,7 +93,7 @@
                           <div class="col text-truncate">
                             <a href="#" class="text-body d-block">Example 2</a>
                             <div class="d-block text-muted text-truncate mt-n1">
-                              justify-content:between ⇒ justify-content:space-between (#29734)
+                              justify-content:between  justify-content:space-between (#29734)
                             </div>
                           </div>
                           <div class="col-auto">
@@ -145,7 +147,7 @@
               <a href="#" class="nav-link d-flex lh-1 text-reset p-0" data-bs-toggle="dropdown" aria-label="Open user menu">
                 <span class="avatar avatar-sm" style="background-image: url(./static/avatars/000m.jpg)"></span>
                 <div class="d-none d-xl-block ps-2">
-                  <div>Paweł Kuna</div>
+                  <div>Pawe Kuna</div>
                   <div class="mt-1 small text-muted">UI Designer</div>
                 </div>
               </a>
@@ -534,7 +536,7 @@
                           <div class="col text-truncate">
                             <a href="#" class="text-body d-block">Example 2</a>
                             <div class="d-block text-muted text-truncate mt-n1">
-                              justify-content:between ⇒ justify-content:space-between (#29734)
+                              justify-content:between  justify-content:space-between (#29734)
                             </div>
                           </div>
                           <div class="col-auto">
